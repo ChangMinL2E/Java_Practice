@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Webcoding\practice\Java_Practice\Data_and_operation\.metadata\.plugins\org.eclipse.jdt.core
